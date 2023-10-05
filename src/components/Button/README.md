@@ -24,6 +24,3 @@ To edit the style you just have to go in your components folder and edit the fil
 | type | string | "reset" |
 | buttonStyle | string | "rounded" |
 | buttonStyle | string | "modern" |
-
-### Demo
-[Button](https://button-psi.vercel.app/)
