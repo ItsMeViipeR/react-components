@@ -3,7 +3,7 @@ Here is a presentation of the navbar.
 
 ### Usage
 
-## First, download FontAwesome from [my GitHub](https://github.com/ItsMeViipeR/react-components/tree/master/src/components/fontawesome)
+## First, download FontAwesome from [fontawesome.com](https://use.fontawesome.com/releases/v6.4.2/fontawesome-free-6.4.2-web.zip)
 
 ```tsx
 import {Navbar} from "@/components/Navbar/Navbar"; // using Next.js alias path
