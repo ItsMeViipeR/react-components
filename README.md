@@ -4,7 +4,7 @@ This is a collection of React components to make the development of your website
 
 ## Installation
 
-Each component can be used specifically or all at once. To add a component to your project, you just have to download the component from the [src/compoents](https://github.com/ItsMeViipeR/react-components/tree/master/src/components) folder and add it to yours.
+Each component can be used specifically or all at once. To add a component to your project, you just have to download the component from the [src/components](https://github.com/ItsMeViipeR/react-components/tree/master/src/components) folder and add it to yours.
 
 ## Usage
 
