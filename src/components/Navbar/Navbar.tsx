@@ -1,7 +1,7 @@
 import React, {FC, ReactNode} from "react";
 
 import "./Navbar.css";
-import "../fontawesome/css/all.css";
+import "@/components/fontawesome/css/all.css";
 
 interface NavbarProps {
     name: string;
