@@ -1,4 +1,4 @@
-# React Components/Navbar (v1.1.0)
+# React Components/Navbar (v1.5.1)
 Here is a presentation of the navbar.
 
 ### Usage

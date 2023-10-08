@@ -3,16 +3,16 @@ import React, {FC, ReactNode} from "react";
 import "./Navbar.css";
 import "@/components/fontawesome/css/all.css";
 
-interface NavbarProps {
+interface NavbarProps extends React.HTMLAttributes<HTMLElement> {
     name: string;
     icon?: string;
     children: ReactNode
 }
 
-export const Navbar: FC<NavbarProps> = ({name, icon, children}) => {
+export const Navbar: FC<NavbarProps> = ({name, icon, children, ...rest}) => {
     return (
         <>
-            <header id={"navbar"}>
+            <header id={"navbar"} {...rest}>
                 <nav className={"navbar-container container"}>
                     <a href="/" className={"home-link"}>
                         {icon &&
