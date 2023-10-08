@@ -1,4 +1,4 @@
-# React Components (v1.5.1)
+# React Components (v1.5.2)
 
 This is a collection of React components to make the development of your website easier.
 
