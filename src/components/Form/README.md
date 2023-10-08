@@ -2,7 +2,7 @@
 ### Here is a presentation of the form.
 
 ```tsx
-import { Button } from "@/components/Button/Button"; // using Next.js alias path
+import { Form } from "@/components/Form/Form"; // using Next.js alias path
 
 export default function MyPage() {
     return (
